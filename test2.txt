@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C89D-8E45
+
+ Directory of C:\Users\arvindkumar\Desktop\project
+
+03/07/2018  11:45 AM    <DIR>          .
+03/07/2018  11:45 AM    <DIR>          ..
+03/07/2018  11:08 AM               409 index.html
+03/07/2018  11:08 AM               365 test1.txt
+03/07/2018  11:45 AM                 0 test2.txt
+               3 File(s)            774 bytes
+               2 Dir(s)  131,655,958,528 bytes free
